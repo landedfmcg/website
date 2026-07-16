@@ -1,0 +1,5 @@
+# Netlify configuration for the Landed static site.
+# No build step: the repo root is served as-is.
+
+[build]
+  publish = "."

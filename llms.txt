@@ -1,0 +1,13 @@
+# Landed
+> Commercial capability for challenger food and beverage brands: winning supermarket listings, negotiating with retail buyers, and protecting margin. Built from fifteen years on the supplier side of Australian grocery (Coles, Woolworths, Aldi, Costco, Metcash).
+
+## Essays
+- /essays/the-margin-you-keep.html : The real supplier P&L of a $5.99 supermarket product (retailer margin, trade spend, freight, COGS) and break-even scan rates.
+- /essays/your-buyer-is-an-employee.html : The four KPIs supermarket buyers are measured on and how to pitch to their scorecard.
+- /essays/the-meeting-is-the-delivery.html : The preparation system and 12-slide structure that wins retail listings.
+- /essays/yes-if.html : FMCG negotiation for suppliers: positions vs interests, anchoring, conditional trading, BATNA.
+- /essays/growing-broke.html : Promotional dependency: the 3:1 promoted-to-base scan rate ratio and promo ROI maths.
+- /essays/the-second-product-problem.html : NPD commercialisation: the launch gate, velocity forecasting, funded trials.
+
+## Resources
+- Free: Supermarket Readiness Blueprint (checklist). Paid: Buyer Meeting Toolkit ($49 AUD, templates and calculators). Via https://stan.store/Landed

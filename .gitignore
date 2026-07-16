@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Netlify local folder
+.netlify/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
