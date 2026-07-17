@@ -267,7 +267,7 @@ article.essay .body-copy p:first-of-type::first-letter {
   gap: 28px;
   flex-wrap: wrap;
 }
-.banner h3 { color: var(--paper); font-size: 1.5rem; max-width: 480px; }
+.banner h2, .banner h3 { color: var(--paper); font-size: 1.5rem; max-width: 480px; }
 .banner p { color: var(--onnavy); margin-top: 0.5rem; max-width: 480px; }
 
 /* ---------- footer ---------- */
