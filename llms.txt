@@ -2,6 +2,7 @@
 > Commercial capability for challenger food and beverage brands: winning supermarket listings, negotiating with retail buyers, and protecting margin. Built from fifteen years on the supplier side of Australian grocery (Coles, Woolworths, Aldi, Costco, Metcash).
 
 ## Essays
+- /essays/seven-numbers-a-buyer-checks.html : The seven numbers a supermarket buyer checks before deciding on your product, in order: rate of sale, price point, retailer margin, promo plan, source of volume, DIFOT, year-one funding.
 - /essays/the-margin-you-keep.html : The real supplier P&L of a $5.99 supermarket product (retailer margin, trade spend, freight, COGS) and break-even scan rates.
 - /essays/your-buyer-is-an-employee.html : The four KPIs supermarket buyers are measured on and how to pitch to their scorecard.
 - /essays/the-meeting-is-the-delivery.html : The preparation system and 12-slide structure that wins retail listings.
