@@ -3,6 +3,7 @@
 
 ## Essays
 - /essays/seven-numbers-a-buyer-checks.html : The seven numbers a supermarket buyer checks before deciding on your product, in order: rate of sale, price point, retailer margin, promo plan, source of volume, DIFOT, year-one funding.
+- /essays/the-listing-is-not-the-win.html : Why getting into Coles is the entry fee, not the finish line. Around half of new grocery products don't survive year one; what surviving the first range review actually takes (pipeline fill, launch funding, rate of sale, the re-pitch).
 - /essays/the-margin-you-keep.html : The real supplier P&L of a $5.99 supermarket product (retailer margin, trade spend, freight, COGS) and break-even scan rates.
 - /essays/your-buyer-is-an-employee.html : The four KPIs supermarket buyers are measured on and how to pitch to their scorecard.
 - /essays/the-meeting-is-the-delivery.html : The preparation system and 12-slide structure that wins retail listings.
