@@ -1,5 +1,7 @@
 # Netlify configuration for the Landed static site.
-# No build step: the repo root is served as-is.
+# The repo root is served as-is; the build step only regenerates sitemap.xml
+# (from the .html files on disk) and pings IndexNow. See build.js.
 
 [build]
   publish = "."
+  command = "node build.js"
