@@ -1,0 +1,26 @@
+# Canonical URL enforcement — one indexable URL per page.
+# Every page currently answers on two URLs (with and without .html, and
+# /index.html alongside /). This 301s all alternates to the single
+# canonical form so Google only ever indexes one URL per page.
+
+# Home: /index.html -> /
+/index.html            /                301!
+
+# Essays index: /essays/index.html -> /essays/  ( /essays -> /essays/ is automatic )
+/essays/index.html     /essays/         301!
+
+# Top-level pages: extensionless -> .html (matches canonical tags + sitemap)
+/about                 /about.html      301!
+/resources             /resources.html  301!
+/coaching              /coaching.html   301!
+/contact               /contact.html    301!
+
+# Essays: extensionless -> .html
+/essays/growing-broke                     /essays/growing-broke.html                     301!
+/essays/seven-numbers-a-buyer-checks      /essays/seven-numbers-a-buyer-checks.html      301!
+/essays/the-listing-is-not-the-win        /essays/the-listing-is-not-the-win.html        301!
+/essays/the-margin-you-keep               /essays/the-margin-you-keep.html               301!
+/essays/the-meeting-is-the-delivery       /essays/the-meeting-is-the-delivery.html       301!
+/essays/the-second-product-problem        /essays/the-second-product-problem.html        301!
+/essays/yes-if                            /essays/yes-if.html                            301!
+/essays/your-buyer-is-an-employee         /essays/your-buyer-is-an-employee.html         301!
