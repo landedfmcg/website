@@ -1,5 +1,8 @@
 # Landed
-> Commercial capability for challenger food and beverage brands: winning supermarket listings, negotiating with retail buyers, and protecting margin. Built from fifteen years on the supplier side of Australian grocery (Coles, Woolworths, Aldi, Costco, Metcash).
+> The outsourced senior commercial function for consumer goods brands, food and non-food: sales growth and account management across Australian grocery, pharmacy, independents and food service. We win listings and grow sales. Built from fifteen years on the supplier side of Australian grocery (Coles, Woolworths, Aldi, Metcash). Supplier-side and independent.
+
+## Sales growth & account management
+- /sales-account-management.html : The core offer. Winning distribution, buyer relationships, negotiation and trading terms, range reviews, promo and margin, for consumer goods brands across grocery, pharmacy, independents and food service. Deliberately commercial-only (not legal, finance, logistics or forecasting). Delivered three ways: advise (coaching), done with you, or done for you (outsourced commercial function). Also cohort training for accelerators and programs. Enquiry-based, scoped in a call, no public pricing. Contact: hello@landedfmcg.com
 
 ## Essays
 - /essays/seven-numbers-a-buyer-checks.html : The seven numbers a supermarket buyer checks before deciding on your product, in order: rate of sale, price point, retailer margin, promo plan, source of volume, DIFOT, year-one funding.
@@ -12,10 +15,7 @@
 - /essays/the-second-product-problem.html : NPD commercialisation: the launch gate, velocity forecasting, funded trials.
 
 ## Resources
-- /resources.html : Free Supermarket Readiness Blueprint (25-point checklist, email to receive). Paid Buyer Meeting Toolkit ($47 AUD, templates and calculators).
-
-## Coaching & training
-- /coaching.html : One-on-one coaching and pitch-building for food and drink founders getting into Coles and Woolworths (commercial modelling, buyer meetings, negotiation, trade terms), plus cohort training for accelerators and programs. Enquiry-based, shaped to the founder's stage. Contact: hello@landedfmcg.com
+- /resources.html : Free Supermarket Readiness Blueprint (25-point checklist, email to receive). Free audio course (podcast) on supermarket economics.
 
 ## Podcast
 - Landed: The Free Course on Winning Supermarket Listings. Free audio course on supermarket economics, the buyer meeting, negotiation, margin and launching new products. https://open.spotify.com/show/033UQk5Wasf82DXRVUUgRb

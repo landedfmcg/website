@@ -12,8 +12,12 @@
 # Top-level pages: extensionless -> .html (matches canonical tags + sitemap)
 /about                 /about.html      301!
 /resources             /resources.html  301!
-/coaching              /coaching.html   301!
 /contact               /contact.html    301!
+/sales-account-management   /sales-account-management.html   301!
+
+# Retired: coaching page folded into the sales & account management page
+/coaching.html         /sales-account-management.html   301!
+/coaching              /sales-account-management.html   301!
 
 # Essays: extensionless -> .html
 /essays/growing-broke                     /essays/growing-broke.html                     301!
